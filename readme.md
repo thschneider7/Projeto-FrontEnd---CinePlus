@@ -12,4 +12,4 @@ JavaScript
 Lógica de manipulação da DOM e interações dinâmicas
 
 
-Link de hospedagem do site: 
+Link de hospedagem do site: https://thschneider7.github.io/Projeto-FrontEnd---CinePlus/
